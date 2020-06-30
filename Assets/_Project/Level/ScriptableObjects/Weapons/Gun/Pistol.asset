@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f705828dd6bf3354fbd5f8bd2e8566a2, type: 3}
+  m_Name: Pistol
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 0}
+  projectile: {fileID: 0}
+  attributes:
+  - type: {fileID: 11400000, guid: 242c82e3d90161844924bcde6b446faf, type: 2}
+    stat:
+      value: 0
+      baseValue: 0
+      modifiers: []
+  - type: {fileID: 11400000, guid: 8b243796676ed30478c985da9ca3b478, type: 2}
+    stat:
+      value: 0
+      baseValue: 0
+      modifiers: []
+  - type: {fileID: 11400000, guid: ab5c063f715942c4eae5d17750d3347d, type: 2}
+    stat:
+      value: 0
+      baseValue: 0
+      modifiers: []
+  - type: {fileID: 11400000, guid: f90339cfd7f18af4fac03f53edc01426, type: 2}
+    stat:
+      value: 0
+      baseValue: 0
+      modifiers: []
+  - type: {fileID: 11400000, guid: 3c578d15730cca54094f3111aef25d5c, type: 2}
+    stat:
+      value: 0
+      baseValue: 0
+      modifiers: []
+  - type: {fileID: 11400000, guid: 61b020553872713488ad128bdbd146d7, type: 2}
+    stat:
+      value: 0
+      baseValue: 0
+      modifiers: []
+  - type: {fileID: 11400000, guid: bff130682fcee4e499b248e1d5328212, type: 2}
+    stat:
+      value: 0
+      baseValue: 0
+      modifiers: []
+  - type: {fileID: 11400000, guid: 1ef1143477600dd4f823eaea5945ce56, type: 2}
+    stat:
+      value: 0
+      baseValue: 0
+      modifiers: []
+  - type: {fileID: 11400000, guid: 5a32286a6ad775345882ca1fbdefe2bc, type: 2}
+    stat:
+      value: 0
+      baseValue: 0
+      modifiers: []
+  - type: {fileID: 11400000, guid: ff27c22bf1b0f8f42a4b9cb556e66ada, type: 2}
+    stat:
+      value: 0
+      baseValue: 0
+      modifiers: []
+  attachments:
+  - type: {fileID: 11400000, guid: 242c82e3d90161844924bcde6b446faf, type: 2}
+    attachment: {fileID: 0}
+  - type: {fileID: 11400000, guid: 61b020553872713488ad128bdbd146d7, type: 2}
+    attachment: {fileID: 0}
+  - type: {fileID: 11400000, guid: bff130682fcee4e499b248e1d5328212, type: 2}
+    attachment: {fileID: 0}
+  - type: {fileID: 11400000, guid: ff27c22bf1b0f8f42a4b9cb556e66ada, type: 2}
+    attachment: {fileID: 0}
